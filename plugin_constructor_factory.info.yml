@@ -1,0 +1,5 @@
+name: Plugin Constructor Factory
+type: module
+description: Provides a plugin factory allowing you to inject dependencies using the constructor
+core: 8.x
+core_version_requirement: ^8 || ^9
